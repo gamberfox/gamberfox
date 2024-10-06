@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Javier Humberto Grijalba Camayo!
 
-<!--
-**gamberfox/gamberfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about solving problems and building impactful projects using modern technologies. I enjoy learning new things and applying them to real-world challenges.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently improving my skills in:
+  - DevOps, Docker, and Kubernetes
+  - TypeScript & JavaScript frameworks (React, Angular)
+  - Java Spring Boot, Clean Architecture
+  
+- 💼 I'm also working on:
+  - A [portfolio](https://your-portfolio-link.com) built with Angular
+  - Spring Boot projects implementing hexagonal architecture and dependency inversion
+
+## 🛠 Technologies & Tools
+
+- **Languages:** Java, TypeScript, JavaScript, Python, SQL
+- **Frameworks & Libraries:** React, Angular, Spring Boot, .NET
+- **DevOps:** Docker, Kubernetes, GitHub Actions
+- **Database:** PostgreSQL, MySQL, MongoDB
+
+## 🌟 Featured Projects
+
+- **[Portfolio website](https://github.com/gamberfox/angular-portfolio)**: A portfolio/resume website. Built with Angular implementing atomic design.
+- **[store stock microservice](https://github.com/pragma-bootcamp-repositories/pragma-stock-api-service)**: A microservice to manage stock in a store. Built spring boot and implements hexagonal architecture.
+  
+Feel free to explore my repositories for more projects!
+
+## 📫 How to reach me
+
+- LinkedIn: [gamberfox]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/gamberfox/))
+- Email: [gamberfox@gmail.com](mailto:gamberofx@gmail.com)
