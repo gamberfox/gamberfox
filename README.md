@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about solving problems and building
 - 🌱 I’m currently improving my skills in:
   - DevOps, Docker, and Kubernetes
   - TypeScript & JavaScript frameworks (React, Angular)
-  - Java Spring Boot, Clean Architecture
+  - Java Spring Boot, hexagonal Architecture
   
 - 💼 I'm also working on:
   - A [portfolio](https://your-portfolio-link.com) built with Angular
@@ -29,5 +29,5 @@ Feel free to explore my repositories for more projects!
 
 ## 📫 How to reach me
 
-- LinkedIn: [gamberfox]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/gamberfox/))
+- LinkedIn: [gamberfox](https://www.linkedin.com/in/gamberfox/)
 - Email: [gamberfox@gmail.com](mailto:gamberofx@gmail.com)
