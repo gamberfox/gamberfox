@@ -19,7 +19,7 @@ I enjoy learning new things and applying them to real-world challenges.
 - **Languages:** Java, TypeScript, JavaScript, Python, SQL
 - **Frameworks & Libraries:** React, Angular, Spring Boot, .NET
 - **DevOps:** Docker, Kubernetes, GitHub Actions
-- **Database:** PostgreSQL, MySQL, MongoDB
+- **Database:** PostgreSQL, MySQL
 
 ## 🌟 Featured Projects
 
