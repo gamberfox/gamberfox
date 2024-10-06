@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about solving problems and building
   - Java Spring Boot, hexagonal Architecture
   
 - 💼 I'm also working on:
-  - A [portfolio](https://your-portfolio-link.com) built with Angular
+  - A [portfolio](https://angular-portfolio-lovat.vercel.app/) built with Angular
   - Spring Boot projects implementing hexagonal architecture and dependency inversion
 
 ## 🛠 Technologies & Tools
