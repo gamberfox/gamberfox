@@ -23,7 +23,6 @@ I enjoy learning new things and applying them to real-world challenges.
 
 ## 🌟 Featured Projects
 
-- **[Portfolio website](https://github.com/gamberfox/angular-portfolio)**: A portfolio/resume website. Built with Angular implementing atomic design.
 - **[store stock microservice](https://github.com/pragma-bootcamp-repositories/pragma-stock-api-service)**: A microservice to manage stock in a store. Built spring boot and implements hexagonal architecture.
   
 Feel free to explore my repositories for more projects!
