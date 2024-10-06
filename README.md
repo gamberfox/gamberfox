@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Javier Humberto Grijalba Camayo!
 
-Welcome to my GitHub profile! I'm passionate about solving problems and building impactful projects using modern technologies. I enjoy learning new things and applying them to real-world challenges.
+Welcome to my GitHub profile! I'm passionate about solving problems and building impactful projects using modern technologies. 
+I enjoy learning new things and applying them to real-world challenges.
 
 ## 🚀 About Me
 
