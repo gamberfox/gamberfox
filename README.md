@@ -23,7 +23,7 @@ I enjoy learning new things and applying them to real-world challenges.
 
 ## 🌟 Featured Projects
 
-- **[store stock microservice](https://github.com/pragma-bootcamp-repositories/pragma-stock-api-service)**: A microservice to manage stock in a store. Built spring boot and implements hexagonal architecture.
+- **[store stock microservice](https://github.com/gamberfox/sd3-group4-ms-stock)**: A microservice to manage stock in a store. Built spring boot and implements hexagonal architecture.
   
 Feel free to explore my repositories for more projects!
 
